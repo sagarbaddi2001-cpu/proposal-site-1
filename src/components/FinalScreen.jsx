@@ -12,18 +12,19 @@ export default function FinalScreen() {
   const [showOverlay, setShowOverlay] = useState(false)
   const messageRef = useRef(null)
 
-  const proposalMessage = `From the moment you came into my life, everything started to change.  
-You brought colors to my ordinary days, warmth to my silence, and a happiness I didn’t even know I was missing.  
+  const proposalMessage = `So My dear Princess or mera pyaara bachaa , thanku for coming in my world .  
+Tumne mujhe sambhala bhi hai or mera sath bhi diya hai or mera dhyn bhi bhot rakhti ho, 
 
-Every sunrise feels brighter because of you.  
-Every dream feels possible because you inspire me.  
-Every challenge feels easier because I imagine you by my side.  
+So now it's my turn and mai chahta hu ki ab tumhara dhyn mai rakhu .  
+or...I want you to love you , cherish you and take care of you .  
+And make you feel that how special and lovable you are ...
 
-You are not just my friend, you’re the most special part of my life.  
-You make me smile, you make my heart race, and you make me want to be a better version of myself.  
+So my dear princess, lovee , care , support and aapki saari zimmedariya abse meri 
+i know i'm not perfect but i will try my best to give you all my love and efforts and try to keep smile on your face always.. 
 
 I don’t know what the future holds, but I know one thing for sure.
-I want that future with you.`
+I want that future with you. I lovee you so muchh mera pyaara bachaa 
+
 
   useEffect(() => {
     if (cardOpen && !typingComplete) {
